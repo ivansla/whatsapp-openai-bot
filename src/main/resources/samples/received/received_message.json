@@ -1,0 +1,39 @@
+{
+  "object": "whatsapp_business_account",
+  "entry": [
+    {
+      "id": "110981755220345",
+      "changes": [
+        {
+          "value": {
+            "messaging_product": "whatsapp",
+            "metadata": {
+              "display_phone_number": "15550013669",
+              "phone_number_id": "102199822777733"
+            },
+            "contacts": [
+              {
+                "profile": {
+                  "name": "Ivan Slavka"
+                },
+                "wa_id": "553496991488"
+              }
+            ],
+            "messages": [
+              {
+                "from": "553496991488",
+                "id": "wamid.HBgMNTUzNDk2OTkxNDg4FQIAEhgWM0VCMDhEMjI0OEI2RjI1MEIyMTdCNwA=",
+                "timestamp": "1683546090",
+                "text": {
+                  "body": "Si tu?"
+                },
+                "type": "text"
+              }
+            ]
+          },
+          "field": "messages"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "object": "whatsapp_business_account",
+  "entry": [
+    {
+      "id": "110981755220345",
+      "changes": [
+        {
+          "value": {
+            "messaging_product": "whatsapp",
+            "metadata": {
+              "display_phone_number": "15550013669",
+              "phone_number_id": "102199822777733"
+            },
+            "statuses": [
+              {
+                "id": "wamid.HBgMNTUzNDk2OTkxNDg4FQIAERgSRUYwRjg5NDE4OUZDQUFDQUNGAA==",
+                "status": "sent",
+                "timestamp": "1683546125",
+                "recipient_id": "553496991488",
+                "conversation": {
+                  "id": "859a872babf286b3ae5f5e3cd333a1bd",
+                  "expiration_timestamp": "1683630720",
+                  "origin": {
+                    "type": "user_initiated"
+                  }
+                },
+                "pricing": {
+                  "billable": true,
+                  "pricing_model": "CBP",
+                  "category": "user_initiated"
+                }
+              }
+            ]
+          },
+          "field": "messages"
+        }
+      ]
+    }
+  ]
+}
